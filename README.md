@@ -1,5 +1,5 @@
 ms_excel dashboard
-Data Source: 
+Data Source:
 https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies
 objective: Create a dashboard using Excel highlighting various interesting observations from the given input data.
 Insights: 
