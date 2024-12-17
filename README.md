@@ -10,11 +10,13 @@
 
 ## Objective: 
 Create a dashboard using Excel highlighting various interesting observations from the given input data.
+
 ## process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Merge all pivot tables into one dashboard.
+  
 ## Dashboard
 ![Screenshot (143)](https://github.com/user-attachments/assets/93d25d64-43d9-4b26-a274-fe637319c667)
 
