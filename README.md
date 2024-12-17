@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/db1dfda1-f90e-4fc3-86f9-20d46920ce1f)# highest_hollywood_gross_movie_analysis
 ms_excel dashboard
 Data Source: 
 https://www.kaggle.com/datasets/sanjeetsinghnaik/top-1000-highest-grossing-movies
