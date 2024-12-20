@@ -1,26 +1,28 @@
-MS EXCEL Dashboard project-Hollywood Highest Grossing Movies
+## MS EXCEL Dashboard project-Hollywood Highest Grossing Movies
 
-Interactive Dashboard creation using ms_excel
+## Interactive Dashboard creation using ms_excel
 
-Data Source:
+## Data Source:
 - <a href="https://lnkd.in/gZ5Gxp-5">Dataset</a>
 
-Questions
+## Questions:
 - What genre of movies tend to have very high earnings in general?
 - What is the most common licence type?
 - Is timing of release an important factor?
 - Which year was lucky for many distributors?
 
-Objective: 
+## Objective: 
 Create a dashboard using Excel highlighting various interesting observations from the given input data.
 
-process
+## process:
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard.
- 
-Project Insights: 
+## Dashboard:
+![Screenshot (143)](https://github.com/user-attachments/assets/3bbfa56a-e177-4ef4-9120-3f4ca7a0ae0f)
+
+ ## Project Insights: 
 - total no of movies are 1000.
 - total world wide sale with 422.84B$.
 - there are total 51 distributors and 55 years movies data is present.
@@ -35,8 +37,3 @@ Project Insights:
 - Paranormal Activity movie with highest profit % budget is 15000$ and world wide sale is 0.19B$.
 - in 2016,2017 total 52 movies released this is highest of all the given years.
 - my favourite movie AVATAR and TITANIC.
-
-
-
-
-Image preview
